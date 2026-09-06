@@ -1,10 +1,14 @@
 package CollectionPrac;
 
-import java.util.HashMap;
+import java.util.*;
 
 public class FirstNotRepeatedChar {
 
     public static void main(String[] args) {
+        findFirstNotRepeatedChar();
+    }
+
+    public static void findFirstNotRepeatedChar() {
         String str = "aabbcdde";
 
         char[] letters = str.toCharArray();

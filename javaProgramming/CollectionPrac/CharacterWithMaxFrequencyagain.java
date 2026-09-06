@@ -3,7 +3,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class CharacterWithMaxFrequency {
+public class CharacterWithMaxFrequencyagain{
     public static void main(String[] args) {
         String str = "programming";
         char[] letters = str.toCharArray();
