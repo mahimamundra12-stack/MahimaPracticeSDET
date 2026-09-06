@@ -1,7 +1,7 @@
 package pages;
 
 import config.ConfigReader;
-import driver.DriverFactory;
+import drivers.DriverFactory;
 import org.openqa.selenium.By;
 
 public class LoginPage {
