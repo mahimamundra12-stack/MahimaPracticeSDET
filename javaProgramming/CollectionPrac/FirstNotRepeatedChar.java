@@ -20,7 +20,6 @@ public class FirstNotRepeatedChar {
                 return;
             }
         }
-
-        System.out.println("No non-repeated character found.");
+=        System.out.println("No non-repeated character found.");
     }
 }
